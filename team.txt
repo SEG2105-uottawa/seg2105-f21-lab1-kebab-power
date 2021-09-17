@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Can Sahin
+=======
+<<<<<<< HEAD
+Mert Yilmaz
+=======
+Arman Doğru
+>>>>>>> ebc2c6b9c56fdc109b2cddd7f5c18bcc7cde40d3
+>>>>>>> 1a241535d9a7199ffec96b30c495e3cff869f692
