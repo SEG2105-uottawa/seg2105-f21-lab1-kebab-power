@@ -1,1 +1,8 @@
 Arman Doğru
+<<<<<<< HEAD
+=======
+Emre Bengu
+Arda Barak
+Mert Yilmaz
+Can Sahin
+>>>>>>> 21a90bc1f3f4d2c6fe6131ab1a6d5351d48aa180
